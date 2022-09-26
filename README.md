@@ -1,7 +1,7 @@
 # Python_Programming <br>
-A course of Python Programming
+A course of Python Programming <br>
 
-The outline of the course:
+The outline of the course: <br>
 Chapter01: Introduction of Programming. Overview of computer programs
 Chapter02: Basic concepts and Data forms in programming
 Chapter03: Variables and Functions in Python programming
