@@ -1,0 +1,19 @@
+Discussion on data structures:
+1. primitive data
+2. non-primitive data
+
+======================================================================
+1. primitive data
+    i. integer numbers
+    ii. char (string)
+    iii. boolean
+    iv. float numbers
+    v. pointer
+
+2. non-primitive data
+    i. linear: static, dynamic data
+    ii. non-linear:
+        a. record, tuples: values in general of different types
+        b. array, vector: values in the same type
+        c. recursive types
+        d. enumration types: days collection, colors collections, datetime
